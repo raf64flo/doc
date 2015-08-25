@@ -19,7 +19,7 @@ Si vous vous servez du système de [courrier électronique](/email_fr), et que v
 
 #### Enjeux de l’auto-hébergement
 * Anonymat, vie privée ;
-* Réappropriation de ces données de ces services ;
+* Réappropriation de ses données et de ses services ;
 * Décentralisation, réseaux distribués ;
 
 <img src="https://yunohost.org/images/networks.png" width=500>
